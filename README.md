@@ -19,9 +19,9 @@ Software utilized for this study included:
 After importing depenedencies and our Python toolkit, we reflected our data into a new model, prepared the tables and saved the reference tables as measurement and station.  We then performed the following workflow for the months of June and December:
 
 1. Write a query that filters the Measurement table to retrieve the temperatures
-2. Conver the temperatures to a list
+2. Convert the temperatures to a list
 3. Create a dataframe from the list of temperatures
-4. Calculate and out the summary statistic
+4. Calculate and print out the summary statistic
 
 ## Results
 
