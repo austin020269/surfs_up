@@ -29,6 +29,7 @@ Deliverable 1 - June
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/June_statistics.PNG)
 
+Out of 1700 stations the average temperature was approximately 75 degrees with the high and low being 85 and 46 degrees fareheit, respectively.
 
 Deliverable 2 - December
 
