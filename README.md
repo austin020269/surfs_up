@@ -29,10 +29,16 @@ Deliverable 1 - June
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/June_statistics.PNG)
 
-Out of 1700 stations the average temperature was approximately 75 degrees with the high and low being 85 and 46 degrees Farenheit, respectively.
+- Approximately 1700 stations 
+- Average temperature was approximately 75 degrees 
+- High and low temperatures were 85 and 46 degrees Farenheit, respectively.
 
 Deliverable 2 - December
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/December_statistics.PNG)
 
-Out of 1517 stations the average temperature was approximately 71 degrees with the high and low being 83 and 56 degrees Farenheit, respectively.
+- Total of 1517 stations 
+- Average temperature was approximately 71 degrees 
+- High and low temperatures were 83 and 56 degrees Farenheit, respectively.
+
+
