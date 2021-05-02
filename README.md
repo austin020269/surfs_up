@@ -25,7 +25,7 @@ After importing depenedencies and our Python toolkit, we reflected our data into
 
 ## Results
 
-Deliverable 1 - June
+Deliverable 1 - June Weather Statistics
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/June_statistics.PNG)
 
@@ -33,7 +33,7 @@ Deliverable 1 - June
 - Average temperature was approximately 75 degrees 
 - High and low temperatures were 85 and 46 degrees Farenheit, respectively.
 
-Deliverable 2 - December
+Deliverable 2 - December Weather Statistics
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/December_statistics.PNG)
 
