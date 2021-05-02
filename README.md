@@ -2,7 +2,7 @@
 UT Bootcamp Module 9 
 
 ## Project Overview
-W. Avy is concerned about the amount of rain that the island of Oahu receives in order of possibly opening up a surf and ice cream shop.  We were given precipitation and weather stations data at the beginning of the analysis.  In end he was more concerned with specific trends in the temperature data for the months of June and December n order to determine if a surf and ice cream shop business is sustainable year-round.
+W. Avy is concerned about the amount of rain that the island of Oahu receives in order of possibly open up a surf and ice cream shop.  We were given precipitation and weather stations data at the beginning of the analysis.  In end he was more concerned with specific trends in the temperature data for the months of June and December n order to determine if a surf and ice cream shop business is sustainable year-round.
 
 
 ## Resources
