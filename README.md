@@ -29,7 +29,7 @@ Deliverable 1 - June Weather Statistics
 
 ![alt text](https://github.com/austin020269/surfs_up/blob/main/June_statistics.PNG)
 
-- Approximately 1700 stations 
+- Total 1700 stations 
 - Average temperature was approximately 75 degrees 
 - High and low temperatures were 85 and 46 degrees Farenheit, respectively.
 
